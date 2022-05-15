@@ -1,0 +1,22 @@
+# data-analytics
+# Superstore Sales Report Assignment 
+
+As a sales manager at Superstore Sales- one of Canada’s largest retail stores. it is needed to send a report to the manager containing a summary of sales for the Corporate customer segment.
+The dataset superstore_sales.xlsx is provided. Most of the data headers are self-explanatory. However, for clarity, following are the meanings of a few data headers:
+
+Region: Analogous to a large state in Canada
+
+Province: A district within Region
+
+Product Base Margin: Profit margin on a product
+The final report is to be made for only the Corporate customer segment. 
+Given tasks invlove:
+ Section 1: Basic Formatting
+ Section 2: Filtering
+ Section 3: Report Making - I
+ Section 4: Report Making - II
+ Section 5: Printing, Saving and Exporting to PDF 
+ 
+ 
+ 
+ just excel!
